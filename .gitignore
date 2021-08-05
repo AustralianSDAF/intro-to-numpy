@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!Introduction\ to\ NumPy.ipynb
+!README.md
+!/imgs/
